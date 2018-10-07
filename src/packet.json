@@ -1,0 +1,11 @@
+{
+  "name": "m",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.go",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "github.com/json-iterator/go": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pkt",
+  "version": "0.0.0",
+  "description": "",
+  "main": "packet.go",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "github.com/json-iterator/go": "latest"
+  },
+  "devDependencies": {
+  }
+}
